@@ -1,25 +1,28 @@
-# Nour Eldeen Mohammad Elgweeny
-
 <p align="center">
-  <img width="400" alt="Nour Eldeen" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=200&section=header&text=Nour%20Eldeen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img
+    width="360"
+    alt="Nour Eldeen Mohammad"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=180&section=header&text=Nour%20Eldeen%20Mohammad&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+  />
 </p>
 
+<h3 align="center">
+  Data Analyst • Data Engineer
+</h3>
+
 <p align="center">
-  <sub><em>
-    Data Analyst | Aspiring Data Engineer<br />
-    Turning data into insights, and building the foundations for scalable data systems.
-  </em></sub>
+  <em>Turning data into insights and building scalable data systems.</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/noureldeenmohammad">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="46" height="46" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  
   <a href="mailto:nour.eldeen01928@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="46" height="46" alt="Email" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  
   <a href="https://wa.me/qr/K3VNGQG53DG2P1">
     <img src="https://img.icons8.com/fluency/48/whatsapp.png" width="46" height="46" alt="WhatsApp" />
   </a>
@@ -39,30 +42,34 @@ I enjoy working with data, solving problems, learning new technologies, and turn
 
 ## Skills
 
+## Skills
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="48" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logo=powerbi&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logo=powerbi&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="30" />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" height="48" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github" height="48" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,bash" height="48" />
-</p>
-
-<p align="center">
-  <sub>Data Analytics · Databases · Programming & Development · Data Engineering Foundations</sub>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 ## Currently Learning — Data Engineering & Big Data
@@ -339,12 +346,25 @@ Relevant Coursework:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nour-1928&show_icons=true&theme=transparent&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nour-1928&theme=transparent&hide_border=true" height="165" />
+  <img
+    src="./profile/stats.svg"
+    height="165"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com?user=nour-1928&theme=transparent&hide_border=true"
+    height="165"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour-1928&layout=compact&theme=transparent&hide_border=true" />
+  <img
+    src="./profile/top-langs.svg"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -363,14 +383,6 @@ My long-term goal is to grow from a **Data Analyst** into a **Data Engineer**, w
 
 I'm documenting my learning journey through projects, experiments, and practical implementations.
 
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/noureldeenmohammad">LinkedIn</a>
-  ·
-  <a href="https://wa.me/qr/5GHSYSRMECOFP1">WhatsApp</a>
   ·
   <a href="mailto:nour.eldeen01928@gmail.com">Email</a>
 </p>
