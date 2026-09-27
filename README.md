@@ -1,275 +1,280 @@
-# <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Nour+Eldeen" alt="Nour Eldeen" />
+# Nour Eldeen Mohammad Elgweeny
+
+<p align="center">
+  <img width="400" alt="Nour Eldeen" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=200&section=header&text=Nour%20Eldeen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <strong>Data Analyst | Aspiring Data Engineer</strong><br />
-  Turning data into insights and building the foundations for scalable data systems.
+  <sub><em>
+    Data Analyst | Aspiring Data Engineer<br />
+    Turning data into insights, and building the foundations for scalable data systems.
+  </em></sub>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/noureldeenmohammad">
-    <img src="https://img.shields.io/badge/%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="52" height="38" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="mailto:nour.eldeen01928@gmail.com">
-    <img src="https://img.shields.io/badge/%20-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="52" height="38" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://wa.me/qr/K3VNGQG53DG2P1">
-    <img src="https://img.shields.io/badge/%20-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="52" height="38" alt="WhatsApp" />
+  <a href="https://wa.me/qr/5GHSYSRMECOFP1">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-
-<table>
-<tr>
-<td width="100%" valign="middle">
-
-Data Analyst with a software development background and hands-on experience in data cleaning, analysis, and visualization. Currently pursuing training in **Data Engineering and Big Data**, with a focus on building scalable data solutions.
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="100%" valign="middle">
-
-Data Analyst with a software development background and hands-on experience in data cleaning, analysis, and visualization. Currently pursuing training in **Data Engineering and Big Data**, with a focus on building scalable data solutions.
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="64%" valign="top">
-
-## ⚙️ Skills
-<sub>Technologies and tools I work with</sub>
-
-<table>
-<tr>
-<td width="31%"><strong>📊 Data Analytics</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=python" height="40" />
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="27" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="27" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="27" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="27" />
-<img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logo=powerbi&logoColor=white" height="27" />
-</td>
-</tr>
-<tr>
-<td><strong>🗄️ Databases</strong></td>
-<td>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="27" />
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" height="40" />
-</td>
-</tr>
-<tr>
-<td><strong>💻 Programming & Development</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github" height="40" />
-</td>
-</tr>
-<tr>
-<td><strong>⚙️ Data Engineering Foundations</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=linux,docker,bash" height="40" />
-</td>
-</tr>
-</table>
-
-</td>
-<td width="36%" valign="top">
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nour-1928&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" width="100%" />
-</p>
-
-<p align="center">
-<a href="https://github.com/nour-1928?tab=repositories">
-<img src="https://img.shields.io/badge/View%20Profile-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
-</td>
-</tr>
-</table>
 
 ---
 
-## 📚 Currently Learning — Data Engineering & Big Data
+## Now
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,git,docker" height="48" />
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" height="30" />
-<img src="https://skillicons.dev/icons?i=spark" height="48" />
-<img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" height="30" />
-<img src="https://skillicons.dev/icons?i=kafka" height="48" />
-<img src="https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" height="30" />
-<img src="https://skillicons.dev/icons?i=aws,azure" height="48" />
-<img src="https://skillicons.dev/icons?i=databricks" height="48" />
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=airbyte&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/Fivetran-133E96?style=for-the-badge&logo=fivetran&logoColor=white" height="30" />
-<img src="https://skillicons.dev/icons?i=grafana" height="48" />
-</p>
+I'm a **Data Analyst with a software development background**, currently building my skills toward **Data Engineering and Big Data**.
 
-<p align="center">
-<sub>Python · Linux · Git · Docker · Hadoop · Spark · Hive · Kafka · Flink · AWS · Azure · Databricks · Snowflake · dbt · Airbyte · Fivetran · Grafana</sub>
-</p>
+My current focus is on understanding how data moves from raw sources to reliable, scalable systems — from databases and ETL pipelines to distributed processing, streaming, cloud platforms, and modern data tools.
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🧱 Foundations
-- Python
-- Linux & Git
-- Docker
-- SQL & NoSQL
-
-</td>
-<td width="33%" valign="top">
-
-### ⚡ Big Data & Streaming
-- Hadoop
-- Apache Spark
-- Hive
-- Kafka
-- Spark Streaming
-- Flink
-
-</td>
-<td width="33%" valign="top">
-
-### ☁️ Cloud & Modern Data
-- AWS
-- Azure
-- Databricks
-- Snowflake
-- dbt
-- Airbyte
-- Fivetran
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-0ea5e9?style=for-the-badge" />
-</p>
-
-> These technologies are part of my current learning roadmap. My hands-on experience is developing progressively through training and projects.
+I enjoy working with data, solving problems, learning new technologies, and turning what I learn into practical projects.
 
 ---
 
-## 🚀 Projects
+## Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
 
-### 📊 Sales Performance Analysis
-**AdventureWorks2019**
+### Data Analytics
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_Query-742774?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/EDA-0F9D58?style=flat-square&logo=python&logoColor=white" />
+
+### Databases
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Database_Design-4479A1?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Modeling-4479A1?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/NoSQL-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+
+### Programming & Development
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
+
+### Data Engineering Foundations
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/ETL%20%2F%20ELT-0F9D58?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Warehousing-4479A1?style=flat-square&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Pipelines-FF6F00?style=flat-square&logo=apacheairflow&logoColor=white" />
+
+</p>
+
+---
+
+## Currently Learning — Data Engineering & Big Data
+
+I'm currently following a structured Data Engineering & Big Data roadmap through hands-on training and multiple learning resources.
+
+### Foundations
 
 <p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/NoSQL-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+### Big Data Ecosystem
+
+<p>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" />
+<img src="https://img.shields.io/badge/Distributed_Processing-5C2D91?style=flat-square&logo=apache&logoColor=white" />
+</p>
+
+### Data Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Data_Warehousing-4479A1?style=flat-square&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Modeling-4479A1?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/ETL%20%2F%20ELT-0F9D58?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Pipelines-FF6F00?style=flat-square&logo=apacheairflow&logoColor=white" />
+</p>
+
+### Streaming
+
+<p>
+<img src="https://img.shields.io/badge/Streaming-00897B?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Spark_Streaming-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white" />
+</p>
+
+### Cloud & Modern Data Platforms
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+</p>
+
+### Data Platform & Operations
+
+<p>
+<img src="https://img.shields.io/badge/Data_Governance-5C2D91?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Deployment-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Monitoring-6C757D?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/DataOps-0F9D58?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/MLOps-FF6F00?style=flat-square&logo=mlflow&logoColor=white" />
+</p>
+
+### Modern Data Stack
+
+<p>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+<img src="https://img.shields.io/badge/Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white" />
+<img src="https://img.shields.io/badge/Fivetran-133E96?style=flat-square&logo=fivetran&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+</p>
+
+### Data & Industry Trends
+
+<p>
+<img src="https://img.shields.io/badge/Big_Data_Trends-4285F4?style=flat-square&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Visualization-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</p>
+
+> **Learning status:** These technologies are part of my current learning roadmap. My hands-on experience with each technology is developing progressively through training and projects.
+
+---
+
+## Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Sales Performance Analysis
+
+**AdventureWorks2019**
+
+**Tech Stack**
+
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Power_Query-742774?style=flat-square&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logo=powerbi&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 
-End-to-end data analysis project covering data preparation, validation, EDA, data modeling, DAX measures, and interactive Power BI reporting.
-
-<a href="https://github.com/nour-1928?tab=repositories"><img src="https://img.shields.io/badge/View%20Project-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /></a>
+- Cleaned, joined, and prepared AdventureWorks2019 sales data using SQL.
+- Created a unified reporting view for analysis.
+- Performed data validation and exploratory analysis using Python.
+- Prepared data for reporting using Power Query.
+- Built a Power BI data model and developed DAX measures.
+- Analyzed Sales, Profit, Orders, Customers, Profit Margin, and YoY Growth.
+- Designed an interactive single-page dashboard with dynamic filtering and bookmark navigation.
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🎓 Student Tracking System
-**ASP.NET Core MVC**
+### Student Tracking System
 
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet" height="36" />
+**Web-Based Academic Management System**
+
+**Tech Stack**
+
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://skillicons.dev/icons?i=docker,git" height="36" />
-</p>
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 
-Web-based academic management system for student records, attendance, grades, assignments, and academic performance.
-
-<a href="https://github.com/nour-1928?tab=repositories"><img src="https://img.shields.io/badge/View%20Project-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</td>
-</tr>
-</table>
-
-<p align="right">
-<a href="https://github.com/nour-1928?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-<table>
-<tr>
-<td width="64%" valign="top">
-
-## 🧭 My Learning Journey
-<sub>From Data Analytics to Data Engineering & Big Data</sub>
-
-<p align="center">
-<strong>📊 Data Analytics</strong>
-&nbsp; → &nbsp;
-<strong>⚙️ Data Engineering Foundations</strong>
-&nbsp; → &nbsp;
-<strong>🗄️ Big Data Ecosystem</strong>
-&nbsp; → &nbsp;
-<strong>☁️ Cloud & Modern Data Stack</strong>
-&nbsp; → &nbsp;
-<strong>🚀 DataOps & MLOps</strong>
-</p>
-
-<p align="center">
-🟦 <strong>Current Focus</strong>
-&nbsp;&nbsp; 🟪 <strong>In Progress</strong>
-&nbsp;&nbsp; ⚪ Next
-&nbsp;&nbsp; ⚪ Future
-&nbsp;&nbsp; ⚪ Goal
-</p>
+- Developed a web-based system for managing student records.
+- Implemented attendance, grades, assignments, and academic performance management.
+- Designed and managed the application database using SQL Server and Entity Framework.
+- Built backend functionality using C# and ASP.NET Core MVC.
+- Used Git/GitHub for version control.
+- Used Docker for application containerization.
 
 </td>
-<td width="36%" valign="top">
-
-## 🎯 Current Focus
-
-- 🔵 Continue learning Data Engineering & Big Data
-- 🟢 Build hands-on projects
-- 🟡 Improve problem-solving & system design
-- 🟣 Grow from Data Analyst toward Data Engineering
-- 🔴 Build a portfolio of real-world projects
-
-</td>
-</tr>
+  </tr>
 </table>
 
 ---
 
-## 🎓 Training & Education
+## Big Data Learning Journey
 
-<table>
-<tr>
-<td width="50%" valign="top">
+My current roadmap is focused on gradually moving from **Data Analytics → Data Engineering → Big Data**.
 
-### 📚 Data Engineering & Big Data
+```text
+Data Analytics
+      │
+      ├── Python
+      ├── SQL
+      ├── Data Cleaning
+      ├── Data Analysis
+      └── Power BI
+            │
+            ▼
+Data Engineering Foundations
+      │
+      ├── Linux
+      ├── Git/GitHub
+      ├── Docker
+      ├── ETL / ELT
+      ├── Data Modeling
+      └── Data Warehousing
+            │
+            ▼
+Big Data
+      │
+      ├── Hadoop
+      ├── Spark
+      ├── Hive
+      ├── Kafka
+      ├── Spark Streaming
+      └── Flink
+            │
+            ▼
+Cloud & Modern Data Platforms
+      │
+      ├── AWS
+      ├── Azure
+      ├── Databricks
+      └── Snowflake
+            │
+            ▼
+Modern Data Engineering
+      │
+      ├── dbt
+      ├── Airbyte
+      ├── Fivetran
+      ├── DataOps
+      ├── MLOps
+      └── Monitoring
+```
+
+---
+
+## Training & Education
+
+### Data Engineering & Big Data
 **Ongoing — 2026**
 
-Building foundational and practical knowledge in:
+Currently building foundational and practical knowledge in:
+
 - Data Engineering
 - Big Data
 - Distributed Data Processing
@@ -278,20 +283,24 @@ Building foundational and practical knowledge in:
 - Streaming
 - Cloud Technologies
 
-### 📊 Data Analytics Specialist — DEPI / MCIT
+---
+
+### Data Analytics Specialist — DEPI / MCIT
 **Nov 2025 – Jul 2026**
 
 - Python
 - SQL
-- Data Preparation & Cleaning
+- Data Preparation
+- Data Cleaning
 - Data Analysis
 - Power BI
 - Tableau
+- End-to-end Data Analytics Project
+- AdventureWorks2019
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 💻 Full Stack .NET Web Developer — DEPI / MCIT
+### Full Stack .NET Web Developer — DEPI / MCIT
 **Oct 2024 – May 2025**
 
 - C#
@@ -301,39 +310,81 @@ Building foundational and practical knowledge in:
 - REST APIs
 - Git/GitHub
 - Docker
-
-### 🎓 Education
-**B.Eng. in Electrical & Computer Engineering**  
-Kafrelsheikh University — Egypt  
-**2021 – 2026**
-
-</td>
-</tr>
-</table>
+- Student Tracking System
 
 ---
 
-## 📬 Connect With Me
+## Education
 
-<table>
-<tr>
-<td width="30%">
+### Bachelor of Engineering in Electrical and Computer Engineering
 
-### Let's connect 🤝
-Building, learning, and growing one project at a time.
+**Kafrelsheikh University — Egypt**
 
-</td>
-<td width="70%">
+**2021 – 2026**
 
-<a href="https://www.linkedin.com/in/noureldeenmohammad"><img src="https://img.shields.io/badge/LinkedIn-noureldeenmohammad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:nour.eldeen01928@gmail.com"><img src="https://img.shields.io/badge/Email-nour.eldeen01928%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/qr/K3VNGQG53DG2P1"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://github.com/nour-1928"><img src="https://img.shields.io/badge/GitHub-nour--1928-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+Relevant Coursework:
 
-</td>
-</tr>
-</table>
+- Databases
+- Data Structures & Algorithms
+- Operating Systems
+- Software Development
+
+---
+
+## Highlights
+
+| Area | Details |
+|---|---|
+| **Data Analytics** | Python, SQL, Power BI, Tableau, Excel, Power Query & DAX |
+| **Data Engineering Path** | Currently studying Data Engineering & Big Data |
+| **Big Data** | Learning Hadoop, Spark, Hive, Kafka, Flink & distributed processing |
+| **Cloud** | Currently learning AWS, Azure & Databricks |
+| **Modern Data Stack** | Learning dbt, Airbyte, Fivetran & Snowflake |
+| **Software Development** | C#, .NET, ASP.NET Core MVC & REST APIs |
+| **Databases** | SQL Server, Database Design & Data Modeling |
+| **Dev Tools** | Linux, Git, GitHub & Docker |
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <em>Always learning. Always building.</em> 📊 → ⚙️ → 🚀
+  <img src="https://github-readme-stats.vercel.app/api?username=nour-1928&show_icons=true&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nour-1928&theme=transparent&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour-1928&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## What I'm Working Toward
+
+My long-term goal is to grow from a **Data Analyst** into a **Data Engineer**, with a strong foundation in:
+
+- Building reliable data pipelines
+- Designing scalable data systems
+- Distributed data processing
+- Batch and streaming systems
+- Data warehousing
+- Cloud data platforms
+- Modern data engineering tools
+
+I'm documenting my learning journey through projects, experiments, and practical implementations.
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/noureldeenmohammad">LinkedIn</a>
+  ·
+  <a href="https://wa.me/qr/5GHSYSRMECOFP1">WhatsApp</a>
+  ·
+  <a href="mailto:nour.eldeen01928@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <sub>Always learning. Always building. 📊 → ⚙️ → 🚀</sub>
 </p>
