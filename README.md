@@ -382,11 +382,3 @@ My long-term goal is to grow from a **Data Analyst** into a **Data Engineer**, w
 - Modern data engineering tools
 
 I'm documenting my learning journey through projects, experiments, and practical implementations.
-
-  ·
-  <a href="mailto:nour.eldeen01928@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  <sub>Always learning. Always building. 📊 → ⚙️ → 🚀</sub>
-</p>
