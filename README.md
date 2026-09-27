@@ -18,7 +18,7 @@
   <a href="mailto:nour.eldeen01928@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/qr/5GHSYSRMECOFP1">
+  <a href="https://wa.me/qr/K3VNGQG53DG2P1">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -37,40 +37,38 @@ I enjoy working with data, solving problems, learning new technologies, and turn
 
 ## Skills
 
-<p align="center">
-
 ### Data Analytics
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_Query-742774?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logo=powerbi&logoColor=white" />
-<img src="https://img.shields.io/badge/EDA-0F9D58?style=flat-square&logo=python&logoColor=white" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
+  <img src="https://skillicons.dev/icons?i=excel" height="45" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=microsoft&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logo=powerbi&logoColor=white" height="28" />
+</p>
 
 ### Databases
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Database_Design-4479A1?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Modeling-4479A1?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/NoSQL-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" height="45" />
+  <img src="https://skillicons.dev/icons?i=mssql" height="45" />
+</p>
 
 ### Programming & Development
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,visualstudio,git,github" height="45" />
+</p>
 
 ### Data Engineering Foundations
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/ETL%20%2F%20ELT-0F9D58?style=flat-square&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Warehousing-4479A1?style=flat-square&logo=snowflake&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Pipelines-FF6F00?style=flat-square&logo=apacheairflow&logoColor=white" />
 
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github" height="45" />
 </p>
 
 ---
@@ -82,74 +80,43 @@ I'm currently following a structured Data Engineering & Big Data roadmap through
 ### Foundations
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/NoSQL-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,linux,git,docker" height="45" />
 </p>
 
 ### Big Data Ecosystem
 
 <p>
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" />
-<img src="https://img.shields.io/badge/Distributed_Processing-5C2D91?style=flat-square&logo=apache&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=hadoop,spark,kafka,flink,hive" height="45" />
 </p>
 
 ### Data Engineering
 
 <p>
-<img src="https://img.shields.io/badge/Data_Warehousing-4479A1?style=flat-square&logo=snowflake&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Modeling-4479A1?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/ETL%20%2F%20ELT-0F9D58?style=flat-square&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Pipelines-FF6F00?style=flat-square&logo=apacheairflow&logoColor=white" />
-</p>
-
-### Streaming
-
-<p>
-<img src="https://img.shields.io/badge/Streaming-00897B?style=flat-square&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Spark_Streaming-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres,dbt,airbyte,snowflake" height="45" />
 </p>
 
 ### Cloud & Modern Data Platforms
 
 <p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,databricks" height="45" />
 </p>
 
-### Data Platform & Operations
-
 <p>
-<img src="https://img.shields.io/badge/Data_Governance-5C2D91?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Deployment-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Monitoring-6C757D?style=flat-square&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/DataOps-0F9D58?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/MLOps-FF6F00?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=airbyte&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Fivetran-133E96?style=for-the-badge&logo=fivetran&logoColor=white" height="28" />
 </p>
 
-### Modern Data Stack
+### Streaming & Operations
 
 <p>
-<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-<img src="https://img.shields.io/badge/Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white" />
-<img src="https://img.shields.io/badge/Fivetran-133E96?style=flat-square&logo=fivetran&logoColor=white" />
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=kafka,grafana,docker" height="45" />
 </p>
 
-### Data & Industry Trends
-
 <p>
-<img src="https://img.shields.io/badge/Big_Data_Trends-4285F4?style=flat-square&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Visualization-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/DataOps-0F9D58?style=for-the-badge&logo=githubactions&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" height="28" />
 </p>
 
 > **Learning status:** These technologies are part of my current learning roadmap. My hands-on experience with each technology is developing progressively through training and projects.
