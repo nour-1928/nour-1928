@@ -1,4 +1,6 @@
-# 👋 Nour Eldeen
+# <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Nour+Eldeen" alt="Nour Eldeen" />
+</p>
 
 <p align="center">
   <strong>Data Analyst | Aspiring Data Engineer</strong><br />
@@ -6,10 +8,28 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/noureldeenmohammad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nour.eldeen01928@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/qr/K3VNGQG53DG2P1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/noureldeenmohammad">
+    <img src="https://img.shields.io/badge/%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="52" height="38" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:nour.eldeen01928@gmail.com">
+    <img src="https://img.shields.io/badge/%20-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="52" height="38" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/qr/K3VNGQG53DG2P1">
+    <img src="https://img.shields.io/badge/%20-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="52" height="38" alt="WhatsApp" />
+  </a>
 </p>
+
+<table>
+<tr>
+<td width="100%" valign="middle">
+
+Data Analyst with a software development background and hands-on experience in data cleaning, analysis, and visualization. Currently pursuing training in **Data Engineering and Big Data**, with a focus on building scalable data solutions.
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
