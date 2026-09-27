@@ -42,8 +42,6 @@ I enjoy working with data, solving problems, learning new technologies, and turn
 
 ## Skills
 
-## Skills
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
