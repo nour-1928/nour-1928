@@ -19,7 +19,7 @@
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="46" height="46" alt="LinkedIn" />
   </a>
   
-  <a href="mailto:nour.eldeen01928@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nour.eldeen01928@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="46" height="46" alt="Email" />
   </a>
   
