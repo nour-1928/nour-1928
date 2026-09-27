@@ -35,41 +35,43 @@ I enjoy working with data, solving problems, learning new technologies, and turn
 
 ---
 
-## What I Work With
+## Skills
+
+<p align="center">
 
 ### Data Analytics
-- Python
-- SQL
-- Data Cleaning
-- Data Analysis
-- Exploratory Data Analysis (EDA)
-- Power BI
-- Tableau
-- Excel
-- Power Query
-- DAX
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_Query-742774?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/EDA-0F9D58?style=flat-square&logo=python&logoColor=white" />
 
 ### Databases
-- SQL Server
-- Database Design
-- Data Modeling
-- NoSQL Fundamentals
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Database_Design-4479A1?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Modeling-4479A1?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/NoSQL-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
 
 ### Programming & Development
-- Python
-- C#
-- .NET
-- ASP.NET Core MVC
-- REST APIs
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
 
 ### Data Engineering Foundations
-- Linux
-- Git
-- GitHub
-- Docker
-- ETL / ELT
-- Data Warehousing
-- Data Pipelines
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/ETL%20%2F%20ELT-0F9D58?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Warehousing-4479A1?style=flat-square&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Pipelines-FF6F00?style=flat-square&logo=apacheairflow&logoColor=white" />
+
+</p>
 
 ---
 
@@ -78,53 +80,77 @@ I enjoy working with data, solving problems, learning new technologies, and turn
 I'm currently following a structured Data Engineering & Big Data roadmap through hands-on training and multiple learning resources.
 
 ### Foundations
-- Python Revision
-- Linux & Git
-- Docker
-- SQL
-- NoSQL
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/NoSQL-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
 ### Big Data Ecosystem
-- Hadoop
-- Apache Spark
-- Apache Hive
-- Distributed Data Processing
-- Big Data Engineering Best Practices
+
+<p>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" />
+<img src="https://img.shields.io/badge/Distributed_Processing-5C2D91?style=flat-square&logo=apache&logoColor=white" />
+</p>
 
 ### Data Engineering
-- Data Warehousing
-- Data Modeling
-- ETL & ELT
-- Data Pipelines
+
+<p>
+<img src="https://img.shields.io/badge/Data_Warehousing-4479A1?style=flat-square&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Modeling-4479A1?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/ETL%20%2F%20ELT-0F9D58?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Pipelines-FF6F00?style=flat-square&logo=apacheairflow&logoColor=white" />
+</p>
 
 ### Streaming
-- Streaming Fundamentals
-- Apache Spark Streaming
-- Apache Kafka
-- Apache Flink
+
+<p>
+<img src="https://img.shields.io/badge/Streaming-00897B?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Spark_Streaming-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white" />
+</p>
 
 ### Cloud & Modern Data Platforms
-- Cloud Fundamentals
-- AWS
-- Azure
-- Databricks
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+</p>
 
 ### Data Platform & Operations
-- Data Governance & Security
-- Deployment
-- Monitoring
-- Apache Grafana
-- DataOps & MLOps
+
+<p>
+<img src="https://img.shields.io/badge/Data_Governance-5C2D91?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Deployment-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Monitoring-6C757D?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/DataOps-0F9D58?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/MLOps-FF6F00?style=flat-square&logo=mlflow&logoColor=white" />
+</p>
 
 ### Modern Data Stack
-- dbt
-- Airbyte
-- Fivetran
-- Snowflake
+
+<p>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+<img src="https://img.shields.io/badge/Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white" />
+<img src="https://img.shields.io/badge/Fivetran-133E96?style=flat-square&logo=fivetran&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+</p>
 
 ### Data & Industry Trends
-- Big Data Trends
-- Data Visualization
+
+<p>
+<img src="https://img.shields.io/badge/Big_Data_Trends-4285F4?style=flat-square&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Visualization-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</p>
 
 > **Learning status:** These technologies are part of my current learning roadmap. My hands-on experience with each technology is developing progressively through training and projects.
 
@@ -142,7 +168,12 @@ I'm currently following a structured Data Engineering & Big Data roadmap through
 
 **Tech Stack**
 
-`SQL Server` `Python` `Power BI` `Power Query` `DAX` `Git/GitHub`
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Power_Query-742774?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 
 - Cleaned, joined, and prepared AdventureWorks2019 sales data using SQL.
 - Created a unified reporting view for analysis.
@@ -162,7 +193,13 @@ I'm currently following a structured Data Engineering & Big Data roadmap through
 
 **Tech Stack**
 
-`C#` `.NET` `ASP.NET Core MVC` `SQL Server` `Entity Framework` `Docker` `Git/GitHub`
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 
 - Developed a web-based system for managing student records.
 - Implemented attendance, grades, assignments, and academic performance management.
