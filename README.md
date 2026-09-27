@@ -13,13 +13,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/noureldeenmohammad">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="46" height="46" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:nour.eldeen01928@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="46" height="46" alt="Email" />
   </a>
-  <a href="https://wa.me/qr/5GHSYSRMECOFP1">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/qr/K3VNGQG53DG2P1">
+    <img src="https://img.icons8.com/fluency/48/whatsapp.png" width="46" height="46" alt="WhatsApp" />
   </a>
 </p>
 
@@ -38,42 +40,30 @@ I enjoy working with data, solving problems, learning new technologies, and turn
 ## Skills
 
 <p align="center">
-
-### Data Analytics
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_Query-742774?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logo=powerbi&logoColor=white" />
-<img src="https://img.shields.io/badge/EDA-0F9D58?style=flat-square&logo=python&logoColor=white" />
-
-### Databases
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Database_Design-4479A1?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Modeling-4479A1?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/NoSQL-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-
-### Programming & Development
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
-
-### Data Engineering Foundations
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/ETL%20%2F%20ELT-0F9D58?style=flat-square&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Warehousing-4479A1?style=flat-square&logo=snowflake&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Pipelines-FF6F00?style=flat-square&logo=apacheairflow&logoColor=white" />
-
+  <img src="https://skillicons.dev/icons?i=python" height="48" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logo=powerbi&logoColor=white" height="30" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="30" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" height="48" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github" height="48" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,bash" height="48" />
+</p>
+
+<p align="center">
+  <sub>Data Analytics · Databases · Programming & Development · Data Engineering Foundations</sub>
+</p>
 
 ## Currently Learning — Data Engineering & Big Data
 
