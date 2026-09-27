@@ -1,42 +1,25 @@
-# Hi 👋, I'm Nour Eldeen
+# 👋 Nour Eldeen
+
+<p align="center">
+  <strong>Data Analyst | Aspiring Data Engineer</strong><br />
+  Turning data into insights and building the foundations for scalable data systems.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/noureldeenmohammad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nour.eldeen01928@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/qr/K3VNGQG53DG2P1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 <table>
 <tr>
-<td width="58%" valign="middle">
-
-# Hi 👋, I'm <span style="color:#0ea5e9">Nour Eldeen</span>
-
-### Data Analyst | Aspiring Data Engineer
+<td width="100%" valign="middle">
 
 Data Analyst with a software development background and hands-on experience in data cleaning, analysis, and visualization. Currently pursuing training in **Data Engineering and Big Data**, with a focus on building scalable data solutions.
-
-<p>
-<a href="https://www.linkedin.com/in/noureldeenmohammad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:nour.eldeen01928@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/qr/K3VNGQG53DG2P1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://github.com/nour-1928"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-</td>
-<td width="42%" valign="middle">
-
-<p align="center">
-<img src="https://github.com/nour-1928.png" width="190" style="border-radius:50%" />
-</p>
-
-<p align="center">
-<strong>📍 Egypt</strong><br />
-📧 nour.eldeen01928@gmail.com<br />
-💼 noureldeenmohammad<br />
-🎓 Kafrelsheikh University<br />
-🗓️ 2021 — 2026
-</p>
 
 </td>
 </tr>
 </table>
-
----
 
 <table>
 <tr>
