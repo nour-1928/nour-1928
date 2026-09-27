@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    width="360"
+    width="420"
     alt="Nour Eldeen Mohammad"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=180&section=header&text=Nour%20Eldeen%20Mohammad&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=200&section=header&text=Nour%20Eldeen%20Mohammad&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
   />
 </p>
 
